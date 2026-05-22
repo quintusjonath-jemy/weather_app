@@ -35,7 +35,7 @@ This app provides real-time weather data, hourly forecasts, weekly forecasts, an
 
 ## Clear Weather UI
 
-## Rain Weather Animation Style
+![weather_app preview](./image/weather.png)
 
 ---
 
