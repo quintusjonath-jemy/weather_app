@@ -120,7 +120,7 @@ The application is optimized for:
 
 # 👨‍💻 Author
 
-Made with ❤️ by Jemy
+Made with ❤️ by Jonath
 
 ---
 
