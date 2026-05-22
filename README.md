@@ -122,8 +122,3 @@ The application is optimized for:
 
 Made with ❤️ by Jonath
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
