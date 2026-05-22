@@ -58,13 +58,13 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weathersphere.git
+git clone https://github.com/quintusjonath-jemy/weather_app.git
 ```
 
 Go to project folder:
 
 ```bash
-cd weathersphere
+cd weather_app
 ```
 
 Install dependencies:
@@ -94,20 +94,6 @@ Free weather forecast API used for weather data.
 Used for reverse geocoding user coordinates.
 
 [Maps.co API](https://geocode.maps.co/?utm_source=chatgpt.com)
-
----
-
-# 🔒 Security
-
-This project does not expose any secret API keys.
-
-Recommended `.gitignore`:
-
-```gitignore
-node_modules
-dist
-.env
-```
 
 ---
 
